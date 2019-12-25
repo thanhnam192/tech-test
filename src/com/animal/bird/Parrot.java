@@ -16,7 +16,7 @@ public class Parrot extends Bird {
 
     @Override
     public String sing() {
-        if( friend != null ){
+        if( friend != null && friend.sing() != null){
             return friend.sing();
         }
         return "kek kek";
