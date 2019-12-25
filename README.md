@@ -38,7 +38,7 @@ b. How did you optimize the code for maintainability?<br/>
 - Fish just extends Animal and implement actions they have.<br/>
 **2. Can you specialize the fish as a Shark and as a Clownfish?**
 <br/>
-- Shark and Clownfish have characteristics feature. So I will create interface FisFeature and they can implement based on their feature<br/>
+- Shark and Clownfish have characteristics feature. So I will create interface FishFeature and they can implement based on their feature<br/>
 
 **3. Dolphins are not exactly fish, yet, they are good swimmers**
 <br/>
