@@ -42,7 +42,7 @@ b. How did you optimize the code for maintainability?<br/>
 
 **3. Dolphins are not exactly fish, yet, they are good swimmers**
 <br/>
-- Dolphin is a mammal and have some fish characteristics. I think he must extends Animal and implement FisFeature.<br/>
+- Dolphin is a mammal and have some fish characteristics. I think he must extends Animal and implement FishFeature.<br/>
 
 **D. Model animals that change their behaviour over time**
 <br/>
@@ -55,7 +55,7 @@ b. How did you optimize the code for maintainability?<br/>
 
 **E. Counting animals**
 <br/>
-- I see Frog is not defined yet. So I will create a Frog class. He can Wald & Sing. <br/>
+- I see Frog is not defined yet. So I will create a Frog class. He can Walk & Sing. <br/>
 Animals can fly : 4 , they are : Bird , Duck , Parrot , Butterfly <br/>
 Animals can walk : 8 , they are : Bird , Duck , Chicken , Rooster , Parrot , Frog , Dog , Cat  <br/>
 Animals can sing : 8 , they are : Bird , Duck , Chicken , Rooster , Parrot , Frog , Dog , Cat  <br/>
